@@ -1,3 +1,9 @@
+Unmaintained!
+
+This was originally just an experiment to see if expiring keys could be used without impacting the original gem code too much.
+
+Use [Rack-Attack](https://github.com/kickstarter/rack-attack) (maintained by Kickstarter) or the original [improved-rack-throttle](https://github.com/bensomers/improved-rack-throttle)
+
 HTTP Request Rate Limiter for Rack Applications
 ===============================================
 
